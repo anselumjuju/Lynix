@@ -26,7 +26,7 @@ Make sure you have the following installed on your system:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/juju-anselum/Lynix.git
+   git clone https://github.com/anselumjuju/Lynix.git
    cd lynix
    ```
 
